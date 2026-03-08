@@ -1,5 +1,7 @@
-<h1 align="center">Hi there 👋, I'm Nayan Das</h1>
-<h3 align="center">Software Engineer | Authentication & Security | Python & JavaScript | ML/DL Enthusiast | Aspiring Researcher</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Nayan+Das" alt="Typing SVG" />
+</p>
+<h3 align="center">Software Engineer | Authentication & Security | Python & JavaScript | ML/DL Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=onlynayan&label=Profile%20views&color=0e75b6&style=flat" alt="onlynayan profile views" />
@@ -43,12 +45,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=onlynayan&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=onlynayan&theme=radical" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=onlynayan&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlynayan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=onlynayan&theme=radical" alt="Top Languages" />
 </p>
 
 ---
