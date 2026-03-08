@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Nayan+Das" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=%20Hi+there+%F0%9F%91%8B%2C+I'm+Nayan+Das" alt="Typing SVG" />
 </p>
 <h3 align="center">Software Engineer | Authentication & Security | Python & JavaScript | ML/DL Enthusiast</h3>
 
@@ -67,7 +67,7 @@
   <a href="https://researchgate.net/profile/Nayan-Das-10" target="_blank">
     <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate" />
   </a>
-  <a href="mailto:contact@your_email.com" target="_blank">
+  <a href="mailto:thisisnayandas@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
